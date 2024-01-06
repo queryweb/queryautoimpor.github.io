@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+h1{ 
+    color: #ffffff;
+    margin:-1% -1% ;
+    font-style: arial;
+    font-size: 50px;
+    float: center;
+    background:#A71708; 
+    padding: 10px;
+    text-align: center;
+    
+}
+d-flex justify-content-between{
+font-size: 40 px;
+float: center;
+}
+
+
+.correo{  
+    font-size: 20px;
+    float: right;
+    margin: -5% 2% ;
+    text-align: left;
+    color:#ffffff;
+    background: #a71706; 
+    padding: 0%;
+}
+
+
+
+.textarea{
+
+    color: #FF5733;
+    font-style: arial;
+    align-self: auto;
+    }

@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+  .encabesado{
+    /* encabesado */ 
+    display: flex ;
+    width: 100% 5vb;
+    background-color: 	 #BF0B0B ;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #ffffff;
+    margin: 0% -5%;
+    font-size: 35px;
+}
+   
+  
+
+.correo{  
+    font-size: 20px;
+    float: right;
+    margin: -4% 1% ;
+    text-align: left;
+    color:#f8f8ff;
+   
+
+}
+#texto1{ 
+ font-size:25px;
+ width: 200px;
+ padding: -0px 100px;
+ box-sizing: border-box;
+
+ color: #0d1fc2; 
+ 
+}
+#texto{ 
+ font-size: 25px;
+ width: 200px;
+ padding:  0px 400px;
+ box-sizing: border-box;
+ float: inline-start;
+  color: #0d1fc2; 
+
+}
+
+input{ 
+ font-size: 25px;
+  color: red;
+ 
+ }
+label{ 
+  font-size: 25px;
+   color: black;
+  }
+.btn{  
+background-color: #9c0a0a;
+padding: 10px 15px;
+text-align: center;
+border: 0;
+border-radius: 0px;
+border-radius: 0%;
+color: #f8f8ff;
+font-size: 20px ;
+text-align: center;
+margin: 3% 44% ;
+float:inline-start;
+}
+.btn:hover{  
+    background-color: #066631;
+   color: #f8f8ff;
+   background-color: #066631;
+   color: #f8f8ff;
+  
+        }
+        h2{  
+          font-size: 40px;
+          text-align: center;
+                }
+
+  #bancos{  
+    display: flex;
+    margin: 4px;
+    border: 3px solid  #9c0a0a;
+    animation-duration: 2s;
+    animation-name: slidein;
+  }
+ 
